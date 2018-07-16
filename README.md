@@ -1,6 +1,7 @@
 # sitOnchar
 Projekt typu One page. 
-Realizowany podczas warsztatu w czasie bootcampu CodersLab
+Realizowany podczas warsztatu w czasie bootcampu CodersLab.
+
 Wykorzystane technologie: 
 
 -Html 
